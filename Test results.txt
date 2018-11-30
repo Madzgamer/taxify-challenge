@@ -1,0 +1,5 @@
+FIRST ITERATION
+210.0285€ PER CAR
+with harjumaa.routerdb, 1 car, 420k rides, time was 17739 ms
+
+TRY-CATCH --> TRYCALCULATE
