@@ -1,7 +1,7 @@
 # Taxify-Challenge
 Entry for the Taxify's Self-driving Fleet Optimization Challenge.
-by Oliver Olmaru and Randal Annus
-Thanks to Ingmar Olmaru
+by Oliver Olmaru and Randal Annus.
+Thanks to Ingmar Olmaru.
 
 ## Getting Started
 Follow these steps to get a copy of the project up and running on your local machine.
@@ -15,9 +15,9 @@ Copy the demand data (named robotex2.csv) to
 ```
 \taxify-challenge-master\self-driving-fleet\bin\Debug\robotex2.csv
 ```
-To change the depos, copy the depos file (named depots.csv) to
+To change the preset depos, copy the depos file (named robotex-depos.csv) to
 ```
-\taxify-challenge-master\self-driving-fleet\bin\Debug\depots.csv
+\taxify-challenge-master\self-driving-fleet\bin\Debug\robotex-depos.csv
 ```
 
 ### Deployment
