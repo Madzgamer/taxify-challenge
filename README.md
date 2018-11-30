@@ -37,7 +37,11 @@ For Example:
 and press enter.
 During the final a computer with 8 coores was used, thus the number of threads was 8.
 
-Next the console asks for the running time in minutes. This must be set to the number of minutes given for the program to complete its task - 3. For example: if the time given for the machine to complete its task (meaning outputting a log file) is 60 minutes, then the number eneterd must be 57.
+Next the console asks for the running time in minutes.
+```
+Please insert the running time in minutes (ex.15.5)
+```
+This must be set to the number of minutes given for the program to complete its task - 3. For example: if the time given for the machine to complete its task (meaning outputting a log file) is 60 minutes, then the number eneterd must be 57.
 The number eneter must be >= 1.0
 For example:
 ```
