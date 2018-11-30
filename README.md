@@ -15,9 +15,23 @@ Copy the demand data (named robotex2.csv) to
 ```
 \taxify-challenge-master\self-driving-fleet\bin\Debug\robotex2.csv
 ```
-To change the depos, copy depots.csv to
+To change the depos, copy the depos file (named depots.csv) to
 ```
 \taxify-challenge-master\self-driving-fleet\bin\Debug\depots.csv
 ```
 
 ### Deployment
+Launch the program as administrator at
+```
+\taxify-challenge-master\self-driving-fleet\bin\Debug\self-driving-fleet.exe
+```
+A console window pops up asking for the number of car threads.
+```
+Please insert the number of car threads
+```
+Insert the number of threads, for optimal performace thr number should be equal to the number of cores on the computers processor (ex. 4). If the number of cores is not known 4 should be entered. The number of of threads must be >= 1 and <= 16.
+For Example:
+```
+4
+```
+and press enter.
